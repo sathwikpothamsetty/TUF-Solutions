@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **0** | 0 | 0 | 0 | `2026-08-08` |
+| **1** | 0 | 1 | 0 | `2026-08-08` |
 
 ---
 
@@ -14,7 +14,7 @@
 
 | # | Title | Solution(s) | Difficulty | Category |
 | :---: | :--- | :---: | :---: | :--- |
-| - | No problems synced yet | - | - | - |
+| 0001 | [Count subarrays with given sum](./DSA/Arrays/count-subarrays-with-given-sum) | [Solution-2](./DSA/Arrays/count-subarrays-with-given-sum/Solution-2.java) | 🟡 Medium | `DSA` / `Arrays` |
 
 ---
 
