@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **6** | 3 | 1 | 2 | `2026-08-09` |
+| **7** | 4 | 1 | 2 | `2026-08-09` |
 
 ---
 
@@ -20,6 +20,7 @@
 | 0004 | [Implement Queue using Arrays](./DSA/Recursion/implement-queue-using-arrays) | [JAVA](./DSA/Recursion/implement-queue-using-arrays/solution.java) | 🟢 Easy | `DSA` / `Recursion` |
 | 0005 | [Implement queue using Linkedlist](./DSA/Linked-List/implement-queue-using-linkedlist) | [JAVA](./DSA/Linked-List/implement-queue-using-linkedlist/solution.java) | 🟢 Easy | `DSA` / `Linked-List` |
 | 0006 | [Implement Stack using Arrays](./DSA/Recursion/implement-stack-using-arrays) | [JAVA](./DSA/Recursion/implement-stack-using-arrays/solution.java) | 🟢 Easy | `DSA` / `Recursion` |
+| 0007 | [Implement Stack using Queue](./DSA/Recursion/implement-stack-using-queue) | [Solution-1](./DSA/Recursion/implement-stack-using-queue/Solution-1.java) | 🟢 Easy | `DSA` / `Recursion` |
 
 ---
 
