@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **8** | 5 | 1 | 2 | `2026-08-11` |
+| **9** | 6 | 1 | 2 | `2026-08-11` |
 
 ---
 
@@ -21,7 +21,8 @@
 | 0005 | [Implement queue using Linkedlist](./DSA/Linked-List/implement-queue-using-linkedlist) | [JAVA](./DSA/Linked-List/implement-queue-using-linkedlist/solution.java) | 🟢 Easy | `DSA` / `Linked-List` |
 | 0006 | [Implement Queue using Stack](./DSA/Stack-Queue/implement-queue-using-stack) | [JAVA](./DSA/Stack-Queue/implement-queue-using-stack/solution.java) | 🟢 Easy | `DSA` / `Stack-Queue` |
 | 0007 | [Implement Stack using Arrays](./DSA/Recursion/implement-stack-using-arrays) | [JAVA](./DSA/Recursion/implement-stack-using-arrays/solution.java) | 🟢 Easy | `DSA` / `Recursion` |
-| 0008 | [Implement Stack using Queue](./DSA/Recursion/implement-stack-using-queue) | [SOLUTION-1](./DSA/Recursion/implement-stack-using-queue/Solution-1.java) | 🟢 Easy | `DSA` / `Recursion` |
+| 0008 | [Implement stack using Linkedlist](./DSA/Linked-List/implement-stack-using-linkedlist) | [JAVA](./DSA/Linked-List/implement-stack-using-linkedlist/solution.java) | 🟢 Easy | `DSA` / `Linked-List` |
+| 0009 | [Implement Stack using Queue](./DSA/Recursion/implement-stack-using-queue) | [SOLUTION-1](./DSA/Recursion/implement-stack-using-queue/Solution-1.java) | 🟢 Easy | `DSA` / `Recursion` |
 
 ---
 
