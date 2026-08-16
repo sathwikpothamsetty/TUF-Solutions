@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **15** | 6 | 7 | 2 | `2026-08-13` |
+| **16** | 6 | 7 | 3 | `2026-08-16` |
 
 ---
 
@@ -18,17 +18,18 @@
 | 0002 | [Binary Subarrays With Sum](./DSA/Arrays/binary-subarrays-with-sum) | [SOLUTION-2](./DSA/Arrays/binary-subarrays-with-sum/Solution-2.java) | 🔴 Hard | `DSA` / `Binary-Search` |
 | 0003 | [Count number of Nice subarrays](./DSA/Arrays/count-number-of-nice-subarrays) | [SOLUTION-2](./DSA/Arrays/count-number-of-nice-subarrays/Solution-2.java) | 🔴 Hard | `DSA` / `Arrays` |
 | 0004 | [Count subarrays with given sum](./DSA/Arrays/count-subarrays-with-given-sum) | [SOLUTION-2](./DSA/Arrays/count-subarrays-with-given-sum/Solution-2.java) | 🟡 Medium | `DSA` / `Arrays` |
-| 0005 | [Implement Queue using Arrays](./DSA/Recursion/implement-queue-using-arrays) | [JAVA](./DSA/Recursion/implement-queue-using-arrays/solution.java) | 🟢 Easy | `DSA` / `Recursion` |
-| 0006 | [Implement queue using Linkedlist](./DSA/Linked-List/implement-queue-using-linkedlist) | [JAVA](./DSA/Linked-List/implement-queue-using-linkedlist/solution.java) | 🟢 Easy | `DSA` / `Linked-List` |
-| 0007 | [Implement Queue using Stack](./DSA/Stack-Queue/implement-queue-using-stack) | [JAVA](./DSA/Stack-Queue/implement-queue-using-stack/solution.java) | 🟢 Easy | `DSA` / `Stack-Queue` |
-| 0008 | [Implement Stack using Arrays](./DSA/Recursion/implement-stack-using-arrays) | [JAVA](./DSA/Recursion/implement-stack-using-arrays/solution.java) | 🟢 Easy | `DSA` / `Recursion` |
-| 0009 | [Implement stack using Linkedlist](./DSA/Linked-List/implement-stack-using-linkedlist) | [JAVA](./DSA/Linked-List/implement-stack-using-linkedlist/solution.java) | 🟢 Easy | `DSA` / `Linked-List` |
-| 0010 | [Implement Stack using Queue](./DSA/Recursion/implement-stack-using-queue) | [SOLUTION-1](./DSA/Recursion/implement-stack-using-queue/Solution-1.java) | 🟢 Easy | `DSA` / `Recursion` |
-| 0011 | [Next Greater Element](./DSA/General/next-greater-element) | [JAVA](./DSA/General/next-greater-element/solution.java) [SOLUTION-2](./DSA/General/next-greater-element/Solution-2.java) | 🟡 Medium | `DSA` |
-| 0012 | [Next Greater Element - 2](./DSA/General/next-greater-element-2) | [JAVA](./DSA/General/next-greater-element-2/solution.java) | 🟡 Medium | `DSA` |
-| 0013 | [Remove K Digits](./DSA/General/remove-k-digits) | [JAVA](./DSA/General/remove-k-digits/solution.java) | 🟡 Medium | `DSA` |
-| 0014 | [Sum of Subarray Minimums](./DSA/Arrays/sum-of-subarray-minimums) | [SOLUTION-2](./DSA/Arrays/sum-of-subarray-minimums/Solution-2.java) | 🟡 Medium | `DSA` / `Arrays` |
-| 0015 | [Sum of Subarray Ranges](./DSA/Arrays/sum-of-subarray-ranges) | [JAVA](./DSA/Arrays/sum-of-subarray-ranges/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
+| 0005 | [Implement Min Stack](./DSA/Stack-Queue/implement-min-stack) | [JAVA](./DSA/Stack-Queue/implement-min-stack/solution.java) | 🔴 Hard | `DSA` / `Stack-Queue` |
+| 0006 | [Implement Queue using Arrays](./DSA/Recursion/implement-queue-using-arrays) | [JAVA](./DSA/Recursion/implement-queue-using-arrays/solution.java) | 🟢 Easy | `DSA` / `Recursion` |
+| 0007 | [Implement queue using Linkedlist](./DSA/Linked-List/implement-queue-using-linkedlist) | [JAVA](./DSA/Linked-List/implement-queue-using-linkedlist/solution.java) | 🟢 Easy | `DSA` / `Linked-List` |
+| 0008 | [Implement Queue using Stack](./DSA/Stack-Queue/implement-queue-using-stack) | [JAVA](./DSA/Stack-Queue/implement-queue-using-stack/solution.java) | 🟢 Easy | `DSA` / `Stack-Queue` |
+| 0009 | [Implement Stack using Arrays](./DSA/Recursion/implement-stack-using-arrays) | [JAVA](./DSA/Recursion/implement-stack-using-arrays/solution.java) | 🟢 Easy | `DSA` / `Recursion` |
+| 0010 | [Implement stack using Linkedlist](./DSA/Linked-List/implement-stack-using-linkedlist) | [JAVA](./DSA/Linked-List/implement-stack-using-linkedlist/solution.java) | 🟢 Easy | `DSA` / `Linked-List` |
+| 0011 | [Implement Stack using Queue](./DSA/Recursion/implement-stack-using-queue) | [SOLUTION-1](./DSA/Recursion/implement-stack-using-queue/Solution-1.java) | 🟢 Easy | `DSA` / `Recursion` |
+| 0012 | [Next Greater Element](./DSA/General/next-greater-element) | [JAVA](./DSA/General/next-greater-element/solution.java) [SOLUTION-2](./DSA/General/next-greater-element/Solution-2.java) | 🟡 Medium | `DSA` |
+| 0013 | [Next Greater Element - 2](./DSA/General/next-greater-element-2) | [JAVA](./DSA/General/next-greater-element-2/solution.java) | 🟡 Medium | `DSA` |
+| 0014 | [Remove K Digits](./DSA/General/remove-k-digits) | [JAVA](./DSA/General/remove-k-digits/solution.java) | 🟡 Medium | `DSA` |
+| 0015 | [Sum of Subarray Minimums](./DSA/Arrays/sum-of-subarray-minimums) | [SOLUTION-2](./DSA/Arrays/sum-of-subarray-minimums/Solution-2.java) | 🟡 Medium | `DSA` / `Arrays` |
+| 0016 | [Sum of Subarray Ranges](./DSA/Arrays/sum-of-subarray-ranges) | [JAVA](./DSA/Arrays/sum-of-subarray-ranges/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
 
 ---
 
