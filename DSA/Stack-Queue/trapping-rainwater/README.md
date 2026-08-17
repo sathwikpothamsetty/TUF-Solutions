@@ -1,4 +1,4 @@
-# [Trapping Rainwater](https://takeuforward.org/plus/dsa/problems/trapping-rainwater?subject=dsa&approach=optimal&tab=submissions)
+# [Trapping Rainwater](https://takeuforward.org/plus/dsa/problems/trapping-rainwater?subject=dsa&approach=optimal-approach&tab=submissions)
 
 ![Difficulty: Hard](https://img.shields.io/badge/Difficulty-Hard-ef4444?style=for-the-badge)
 
