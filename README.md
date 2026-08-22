@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **22** | 9 | 7 | 6 | `2026-08-17` |
+| **23** | 10 | 7 | 6 | `2026-08-22` |
 
 ---
 
@@ -25,17 +25,18 @@
 | 0009 | [Implement Stack using Arrays](./DSA/Recursion/implement-stack-using-arrays) | [JAVA](./DSA/Recursion/implement-stack-using-arrays/solution.java) | 🟢 Easy | `DSA` / `Recursion` |
 | 0010 | [Implement stack using Linkedlist](./DSA/Linked-List/implement-stack-using-linkedlist) | [JAVA](./DSA/Linked-List/implement-stack-using-linkedlist/solution.java) | 🟢 Easy | `DSA` / `Linked-List` |
 | 0011 | [Implement Stack using Queue](./DSA/Recursion/implement-stack-using-queue) | [SOLUTION-1](./DSA/Recursion/implement-stack-using-queue/Solution-1.java) | 🟢 Easy | `DSA` / `Recursion` |
-| 0012 | [Inorder Traversal](./DSA/Trees/inorder-traversal) | [Solution-2](./DSA/Trees/inorder-traversal/Solution-2.java) | 🟢 Easy | `DSA` / `Trees` |
+| 0012 | [Inorder Traversal](./DSA/Trees/inorder-traversal) | [SOLUTION-2](./DSA/Trees/inorder-traversal/Solution-2.java) | 🟢 Easy | `DSA` / `Trees` |
 | 0013 | [Largest rectangle in a histogram](./DSA/Stack-Queue/largest-rectangle-in-a-histogram) | [JAVA](./DSA/Stack-Queue/largest-rectangle-in-a-histogram/solution.java) | 🔴 Hard | `DSA` / `Stack-Queue` |
-| 0014 | [Next Greater Element](./DSA/General/next-greater-element) | [JAVA](./DSA/General/next-greater-element/solution.java) [SOLUTION-2](./DSA/General/next-greater-element/Solution-2.java) | 🟡 Medium | `DSA` |
-| 0015 | [Next Greater Element - 2](./DSA/General/next-greater-element-2) | [JAVA](./DSA/General/next-greater-element-2/solution.java) | 🟡 Medium | `DSA` |
-| 0016 | [Postorder Traversal](./DSA/Trees/postorder-traversal) | [JAVA](./DSA/Trees/postorder-traversal/solution.java) [Solution-2](./DSA/Trees/postorder-traversal/Solution-2.java) | 🟢 Easy | `DSA` / `Trees` |
-| 0017 | [Preorder Traversal](./DSA/Trees/preorder-traversal) | [Solution-2](./DSA/Trees/preorder-traversal/Solution-2.java) | 🟢 Easy | `DSA` / `Trees` |
-| 0018 | [Remove K Digits](./DSA/General/remove-k-digits) | [JAVA](./DSA/General/remove-k-digits/solution.java) | 🟡 Medium | `DSA` |
-| 0019 | [Sliding Window Maximum](./DSA/Stack-Queue/sliding-window-maximum) | [SOLUTION-2](./DSA/Stack-Queue/sliding-window-maximum/Solution-2.java) | 🔴 Hard | `DSA` / `Stack-Queue` |
-| 0020 | [Sum of Subarray Minimums](./DSA/Arrays/sum-of-subarray-minimums) | [SOLUTION-2](./DSA/Arrays/sum-of-subarray-minimums/Solution-2.java) | 🟡 Medium | `DSA` / `Arrays` |
-| 0021 | [Sum of Subarray Ranges](./DSA/Arrays/sum-of-subarray-ranges) | [JAVA](./DSA/Arrays/sum-of-subarray-ranges/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
-| 0022 | [Trapping Rainwater](./DSA/Stack-Queue/trapping-rainwater) | [Solution-2](./DSA/Stack-Queue/trapping-rainwater/Solution-2.java) | 🔴 Hard | `DSA` / `Stack-Queue` |
+| 0014 | [Level Order Traversal](./DSA/Trees/level-order-traversal) | [Solution-1](./DSA/Trees/level-order-traversal/Solution-1.java) | 🟢 Easy | `DSA` / `Trees` |
+| 0015 | [Next Greater Element](./DSA/General/next-greater-element) | [JAVA](./DSA/General/next-greater-element/solution.java) [SOLUTION-2](./DSA/General/next-greater-element/Solution-2.java) | 🟡 Medium | `DSA` |
+| 0016 | [Next Greater Element - 2](./DSA/General/next-greater-element-2) | [JAVA](./DSA/General/next-greater-element-2/solution.java) | 🟡 Medium | `DSA` |
+| 0017 | [Postorder Traversal](./DSA/Trees/postorder-traversal) | [JAVA](./DSA/Trees/postorder-traversal/solution.java) [SOLUTION-2](./DSA/Trees/postorder-traversal/Solution-2.java) | 🟢 Easy | `DSA` / `Trees` |
+| 0018 | [Preorder Traversal](./DSA/Trees/preorder-traversal) | [SOLUTION-2](./DSA/Trees/preorder-traversal/Solution-2.java) | 🟢 Easy | `DSA` / `Trees` |
+| 0019 | [Remove K Digits](./DSA/General/remove-k-digits) | [JAVA](./DSA/General/remove-k-digits/solution.java) | 🟡 Medium | `DSA` |
+| 0020 | [Sliding Window Maximum](./DSA/Stack-Queue/sliding-window-maximum) | [SOLUTION-2](./DSA/Stack-Queue/sliding-window-maximum/Solution-2.java) | 🔴 Hard | `DSA` / `Stack-Queue` |
+| 0021 | [Sum of Subarray Minimums](./DSA/Arrays/sum-of-subarray-minimums) | [SOLUTION-2](./DSA/Arrays/sum-of-subarray-minimums/Solution-2.java) | 🟡 Medium | `DSA` / `Arrays` |
+| 0022 | [Sum of Subarray Ranges](./DSA/Arrays/sum-of-subarray-ranges) | [JAVA](./DSA/Arrays/sum-of-subarray-ranges/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
+| 0023 | [Trapping Rainwater](./DSA/Stack-Queue/trapping-rainwater) | [SOLUTION-2](./DSA/Stack-Queue/trapping-rainwater/Solution-2.java) | 🔴 Hard | `DSA` / `Stack-Queue` |
 
 ---
 
