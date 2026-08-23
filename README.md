@@ -16,7 +16,7 @@
 | :---: | :--- | :---: | :---: | :--- |
 | 0001 | [Asteroid Collision](./DSA/Linked-List/asteroid-collision) | [JAVA](./DSA/Linked-List/asteroid-collision/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
 | 0002 | [Binary Subarrays With Sum](./DSA/Arrays/binary-subarrays-with-sum) | [SOLUTION-2](./DSA/Arrays/binary-subarrays-with-sum/Solution-2.java) | 🔴 Hard | `DSA` / `Binary-Search` |
-| 0003 | [Check for balanced binary tree](./DSA/Trees/check-for-balanced-binary-tree) | [JAVA](./DSA/Trees/check-for-balanced-binary-tree/solution.java) | 🟡 Medium | `DSA` / `Trees` |
+| 0003 | [Check for balanced binary tree](./DSA/Trees/check-for-balanced-binary-tree) | [JAVA](./DSA/Trees/check-for-balanced-binary-tree/solution.java) [Solution-3](./DSA/Trees/check-for-balanced-binary-tree/Solution-3.java) | 🟡 Medium | `DSA` / `Trees` |
 | 0004 | [Check if two trees are identical or not](./DSA/Trees/check-if-two-trees-are-identical-or-not) | [JAVA](./DSA/Trees/check-if-two-trees-are-identical-or-not/solution.java) | 🟡 Medium | `DSA` / `Trees` |
 | 0005 | [Count number of Nice subarrays](./DSA/Arrays/count-number-of-nice-subarrays) | [SOLUTION-2](./DSA/Arrays/count-number-of-nice-subarrays/Solution-2.java) | 🔴 Hard | `DSA` / `Arrays` |
 | 0006 | [Count subarrays with given sum](./DSA/Arrays/count-subarrays-with-given-sum) | [SOLUTION-2](./DSA/Arrays/count-subarrays-with-given-sum/Solution-2.java) | 🟡 Medium | `DSA` / `Arrays` |
