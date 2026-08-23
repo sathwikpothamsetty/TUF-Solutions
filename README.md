@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **30** | 12 | 12 | 6 | `2026-08-23` |
+| **31** | 12 | 13 | 6 | `2026-08-23` |
 
 ---
 
@@ -44,6 +44,7 @@
 | 0028 | [Sum of Subarray Minimums](./DSA/Arrays/sum-of-subarray-minimums) | [SOLUTION-2](./DSA/Arrays/sum-of-subarray-minimums/Solution-2.java) | 🟡 Medium | `DSA` / `Arrays` |
 | 0029 | [Sum of Subarray Ranges](./DSA/Arrays/sum-of-subarray-ranges) | [JAVA](./DSA/Arrays/sum-of-subarray-ranges/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
 | 0030 | [Trapping Rainwater](./DSA/Stack-Queue/trapping-rainwater) | [SOLUTION-2](./DSA/Stack-Queue/trapping-rainwater/Solution-2.java) | 🔴 Hard | `DSA` / `Stack-Queue` |
+| 0031 | [Zig Zag or Spiral Traversal](./DSA/Trees/zig-zag-or-spiral-traversal) | [JAVA](./DSA/Trees/zig-zag-or-spiral-traversal/solution.java) | 🟡 Medium | `DSA` / `Trees` |
 
 ---
 
