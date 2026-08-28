@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **33** | 13 | 14 | 6 | `2026-08-26` |
+| **34** | 13 | 15 | 6 | `2026-08-28` |
 
 ---
 
@@ -46,7 +46,8 @@
 | 0030 | [Sum of Subarray Minimums](./DSA/Arrays/sum-of-subarray-minimums) | [SOLUTION-2](./DSA/Arrays/sum-of-subarray-minimums/Solution-2.java) | 🟡 Medium | `DSA` / `Arrays` |
 | 0031 | [Sum of Subarray Ranges](./DSA/Arrays/sum-of-subarray-ranges) | [JAVA](./DSA/Arrays/sum-of-subarray-ranges/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
 | 0032 | [Trapping Rainwater](./DSA/Stack-Queue/trapping-rainwater) | [SOLUTION-2](./DSA/Stack-Queue/trapping-rainwater/Solution-2.java) | 🔴 Hard | `DSA` / `Stack-Queue` |
-| 0033 | [Zig Zag or Spiral Traversal](./DSA/Trees/zig-zag-or-spiral-traversal) | [JAVA](./DSA/Trees/zig-zag-or-spiral-traversal/solution.java) | 🟡 Medium | `DSA` / `Trees` |
+| 0033 | [Vertical Order Traversal](./DSA/Trees/vertical-order-traversal) | [JAVA](./DSA/Trees/vertical-order-traversal/solution.java) | 🟡 Medium | `DSA` / `Trees` |
+| 0034 | [Zig Zag or Spiral Traversal](./DSA/Trees/zig-zag-or-spiral-traversal) | [JAVA](./DSA/Trees/zig-zag-or-spiral-traversal/solution.java) | 🟡 Medium | `DSA` / `Trees` |
 
 ---
 
