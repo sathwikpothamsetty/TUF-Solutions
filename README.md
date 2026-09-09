@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **37** | 13 | 18 | 6 | `2026-08-29` |
+| **38** | 13 | 19 | 6 | `2026-09-09` |
 
 ---
 
@@ -42,15 +42,16 @@
 | 0026 | [Postorder Traversal](./DSA/Trees/postorder-traversal) | [JAVA](./DSA/Trees/postorder-traversal/solution.java) [SOLUTION-2](./DSA/Trees/postorder-traversal/Solution-2.java) | 🟢 Easy | `DSA` / `Trees` |
 | 0027 | [Pre, Post, Inorder in one traversal](./DSA/Trees/pre-post-inorder-in-one-traversal) | [JAVA](./DSA/Trees/pre-post-inorder-in-one-traversal/solution.java) | 🟢 Easy | `DSA` / `Trees` |
 | 0028 | [Preorder Traversal](./DSA/Trees/preorder-traversal) | [SOLUTION-2](./DSA/Trees/preorder-traversal/Solution-2.java) | 🟢 Easy | `DSA` / `Trees` |
-| 0029 | [Remove K Digits](./DSA/General/remove-k-digits) | [JAVA](./DSA/General/remove-k-digits/solution.java) | 🟡 Medium | `DSA` |
-| 0030 | [Right/Left View of BT](./DSA/Trees/rightleft-view-of-bt) | [JAVA](./DSA/Trees/rightleft-view-of-bt/solution.java) [Solution-2](./DSA/Trees/rightleft-view-of-bt/Solution-2.java) | 🟡 Medium | `DSA` / `Trees` |
-| 0031 | [Sliding Window Maximum](./DSA/Stack-Queue/sliding-window-maximum) | [SOLUTION-2](./DSA/Stack-Queue/sliding-window-maximum/Solution-2.java) | 🔴 Hard | `DSA` / `Stack-Queue` |
-| 0032 | [Sum of Subarray Minimums](./DSA/Arrays/sum-of-subarray-minimums) | [SOLUTION-2](./DSA/Arrays/sum-of-subarray-minimums/Solution-2.java) | 🟡 Medium | `DSA` / `Arrays` |
-| 0033 | [Sum of Subarray Ranges](./DSA/Arrays/sum-of-subarray-ranges) | [JAVA](./DSA/Arrays/sum-of-subarray-ranges/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
-| 0034 | [Top View of BT](./DSA/Trees/top-view-of-bt) | [JAVA](./DSA/Trees/top-view-of-bt/solution.java) | 🟡 Medium | `DSA` / `Trees` |
-| 0035 | [Trapping Rainwater](./DSA/Stack-Queue/trapping-rainwater) | [SOLUTION-2](./DSA/Stack-Queue/trapping-rainwater/Solution-2.java) | 🔴 Hard | `DSA` / `Stack-Queue` |
-| 0036 | [Vertical Order Traversal](./DSA/Trees/vertical-order-traversal) | [JAVA](./DSA/Trees/vertical-order-traversal/solution.java) | 🟡 Medium | `DSA` / `Trees` |
-| 0037 | [Zig Zag or Spiral Traversal](./DSA/Trees/zig-zag-or-spiral-traversal) | [JAVA](./DSA/Trees/zig-zag-or-spiral-traversal/solution.java) | 🟡 Medium | `DSA` / `Trees` |
+| 0029 | [Print root to leaf path in BT](./DSA/Trees/print-root-to-leaf-path-in-bt) | [JAVA](./DSA/Trees/print-root-to-leaf-path-in-bt/solution.java) | 🟡 Medium | `DSA` / `Trees` |
+| 0030 | [Remove K Digits](./DSA/General/remove-k-digits) | [JAVA](./DSA/General/remove-k-digits/solution.java) | 🟡 Medium | `DSA` |
+| 0031 | [Right/Left View of BT](./DSA/Trees/rightleft-view-of-bt) | [JAVA](./DSA/Trees/rightleft-view-of-bt/solution.java) [SOLUTION-2](./DSA/Trees/rightleft-view-of-bt/Solution-2.java) | 🟡 Medium | `DSA` / `Trees` |
+| 0032 | [Sliding Window Maximum](./DSA/Stack-Queue/sliding-window-maximum) | [SOLUTION-2](./DSA/Stack-Queue/sliding-window-maximum/Solution-2.java) | 🔴 Hard | `DSA` / `Stack-Queue` |
+| 0033 | [Sum of Subarray Minimums](./DSA/Arrays/sum-of-subarray-minimums) | [SOLUTION-2](./DSA/Arrays/sum-of-subarray-minimums/Solution-2.java) | 🟡 Medium | `DSA` / `Arrays` |
+| 0034 | [Sum of Subarray Ranges](./DSA/Arrays/sum-of-subarray-ranges) | [JAVA](./DSA/Arrays/sum-of-subarray-ranges/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
+| 0035 | [Top View of BT](./DSA/Trees/top-view-of-bt) | [JAVA](./DSA/Trees/top-view-of-bt/solution.java) | 🟡 Medium | `DSA` / `Trees` |
+| 0036 | [Trapping Rainwater](./DSA/Stack-Queue/trapping-rainwater) | [SOLUTION-2](./DSA/Stack-Queue/trapping-rainwater/Solution-2.java) | 🔴 Hard | `DSA` / `Stack-Queue` |
+| 0037 | [Vertical Order Traversal](./DSA/Trees/vertical-order-traversal) | [JAVA](./DSA/Trees/vertical-order-traversal/solution.java) | 🟡 Medium | `DSA` / `Trees` |
+| 0038 | [Zig Zag or Spiral Traversal](./DSA/Trees/zig-zag-or-spiral-traversal) | [JAVA](./DSA/Trees/zig-zag-or-spiral-traversal/solution.java) | 🟡 Medium | `DSA` / `Trees` |
 
 ---
 
