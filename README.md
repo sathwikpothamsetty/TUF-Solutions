@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **49** | 13 | 22 | 14 | `2026-09-14` |
+| **50** | 13 | 23 | 14 | `2026-09-19` |
 
 ---
 
@@ -47,22 +47,23 @@
 | 0031 | [Next Greater Element](./DSA/General/next-greater-element) | [JAVA](./DSA/General/next-greater-element/solution.java) [SOLUTION-2](./DSA/General/next-greater-element/Solution-2.java) | 🟡 Medium | `DSA` |
 | 0032 | [Next Greater Element - 2](./DSA/General/next-greater-element-2) | [JAVA](./DSA/General/next-greater-element-2/solution.java) | 🟡 Medium | `DSA` |
 | 0033 | [Postorder Traversal](./DSA/Trees/postorder-traversal) | [JAVA](./DSA/Trees/postorder-traversal/solution.java) [SOLUTION-2](./DSA/Trees/postorder-traversal/Solution-2.java) | 🟢 Easy | `DSA` / `Trees` |
-| 0034 | [Pow(x,n)](./DSA/Recursion/powxn) | [SOLUTION-2](./DSA/Recursion/powxn/Solution-2.java) | 🟡 Medium | `DSA` / `Recursion` |
-| 0035 | [Pre, Post, Inorder in one traversal](./DSA/Trees/pre-post-inorder-in-one-traversal) | [JAVA](./DSA/Trees/pre-post-inorder-in-one-traversal/solution.java) | 🟢 Easy | `DSA` / `Trees` |
-| 0036 | [Preorder Traversal](./DSA/Trees/preorder-traversal) | [SOLUTION-2](./DSA/Trees/preorder-traversal/Solution-2.java) | 🟢 Easy | `DSA` / `Trees` |
-| 0037 | [Print all nodes at a distance of K in BT](./DSA/Trees/print-all-nodes-at-a-distance-of-k-in-bt) | [JAVA](./DSA/Trees/print-all-nodes-at-a-distance-of-k-in-bt/solution.java) | 🔴 Hard | `DSA` / `Trees` |
-| 0038 | [Print root to leaf path in BT](./DSA/Trees/print-root-to-leaf-path-in-bt) | [JAVA](./DSA/Trees/print-root-to-leaf-path-in-bt/solution.java) | 🟡 Medium | `DSA` / `Trees` |
-| 0039 | [Remove K Digits](./DSA/General/remove-k-digits) | [JAVA](./DSA/General/remove-k-digits/solution.java) | 🟡 Medium | `DSA` |
-| 0040 | [Requirements needed to construct a unique BT](./DSA/Trees/requirements-needed-to-construct-a-unique-bt) | [JAVA](./DSA/Trees/requirements-needed-to-construct-a-unique-bt/solution.java) | 🟡 Medium | `DSA` / `Trees` |
-| 0041 | [Right/Left View of BT](./DSA/Trees/rightleft-view-of-bt) | [JAVA](./DSA/Trees/rightleft-view-of-bt/solution.java) [SOLUTION-2](./DSA/Trees/rightleft-view-of-bt/Solution-2.java) | 🟡 Medium | `DSA` / `Trees` |
-| 0042 | [Serialize and De-serialize BT](./DSA/Trees/serialize-and-de-serialize-bt) | [JAVA](./DSA/Trees/serialize-and-de-serialize-bt/solution.java) | 🔴 Hard | `DSA` / `Trees` |
-| 0043 | [Sliding Window Maximum](./DSA/Stack-Queue/sliding-window-maximum) | [SOLUTION-2](./DSA/Stack-Queue/sliding-window-maximum/Solution-2.java) | 🔴 Hard | `DSA` / `Stack-Queue` |
-| 0044 | [Sum of Subarray Minimums](./DSA/Arrays/sum-of-subarray-minimums) | [SOLUTION-2](./DSA/Arrays/sum-of-subarray-minimums/Solution-2.java) | 🟡 Medium | `DSA` / `Arrays` |
-| 0045 | [Sum of Subarray Ranges](./DSA/Arrays/sum-of-subarray-ranges) | [JAVA](./DSA/Arrays/sum-of-subarray-ranges/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
-| 0046 | [Top View of BT](./DSA/Trees/top-view-of-bt) | [JAVA](./DSA/Trees/top-view-of-bt/solution.java) | 🟡 Medium | `DSA` / `Trees` |
-| 0047 | [Trapping Rainwater](./DSA/Stack-Queue/trapping-rainwater) | [SOLUTION-2](./DSA/Stack-Queue/trapping-rainwater/Solution-2.java) | 🔴 Hard | `DSA` / `Stack-Queue` |
-| 0048 | [Vertical Order Traversal](./DSA/Trees/vertical-order-traversal) | [JAVA](./DSA/Trees/vertical-order-traversal/solution.java) | 🟡 Medium | `DSA` / `Trees` |
-| 0049 | [Zig Zag or Spiral Traversal](./DSA/Trees/zig-zag-or-spiral-traversal) | [JAVA](./DSA/Trees/zig-zag-or-spiral-traversal/solution.java) | 🟡 Medium | `DSA` / `Trees` |
+| 0034 | [Power Set](./DSA/Recursion/power-set) | [Solution-2](./DSA/Recursion/power-set/Solution-2.java) | 🟡 Medium | `DSA` / `Recursion` |
+| 0035 | [Pow(x,n)](./DSA/Recursion/powxn) | [SOLUTION-2](./DSA/Recursion/powxn/Solution-2.java) | 🟡 Medium | `DSA` / `Recursion` |
+| 0036 | [Pre, Post, Inorder in one traversal](./DSA/Trees/pre-post-inorder-in-one-traversal) | [JAVA](./DSA/Trees/pre-post-inorder-in-one-traversal/solution.java) | 🟢 Easy | `DSA` / `Trees` |
+| 0037 | [Preorder Traversal](./DSA/Trees/preorder-traversal) | [SOLUTION-2](./DSA/Trees/preorder-traversal/Solution-2.java) | 🟢 Easy | `DSA` / `Trees` |
+| 0038 | [Print all nodes at a distance of K in BT](./DSA/Trees/print-all-nodes-at-a-distance-of-k-in-bt) | [JAVA](./DSA/Trees/print-all-nodes-at-a-distance-of-k-in-bt/solution.java) | 🔴 Hard | `DSA` / `Trees` |
+| 0039 | [Print root to leaf path in BT](./DSA/Trees/print-root-to-leaf-path-in-bt) | [JAVA](./DSA/Trees/print-root-to-leaf-path-in-bt/solution.java) | 🟡 Medium | `DSA` / `Trees` |
+| 0040 | [Remove K Digits](./DSA/General/remove-k-digits) | [JAVA](./DSA/General/remove-k-digits/solution.java) | 🟡 Medium | `DSA` |
+| 0041 | [Requirements needed to construct a unique BT](./DSA/Trees/requirements-needed-to-construct-a-unique-bt) | [JAVA](./DSA/Trees/requirements-needed-to-construct-a-unique-bt/solution.java) | 🟡 Medium | `DSA` / `Trees` |
+| 0042 | [Right/Left View of BT](./DSA/Trees/rightleft-view-of-bt) | [JAVA](./DSA/Trees/rightleft-view-of-bt/solution.java) [SOLUTION-2](./DSA/Trees/rightleft-view-of-bt/Solution-2.java) | 🟡 Medium | `DSA` / `Trees` |
+| 0043 | [Serialize and De-serialize BT](./DSA/Trees/serialize-and-de-serialize-bt) | [JAVA](./DSA/Trees/serialize-and-de-serialize-bt/solution.java) | 🔴 Hard | `DSA` / `Trees` |
+| 0044 | [Sliding Window Maximum](./DSA/Stack-Queue/sliding-window-maximum) | [SOLUTION-2](./DSA/Stack-Queue/sliding-window-maximum/Solution-2.java) | 🔴 Hard | `DSA` / `Stack-Queue` |
+| 0045 | [Sum of Subarray Minimums](./DSA/Arrays/sum-of-subarray-minimums) | [SOLUTION-2](./DSA/Arrays/sum-of-subarray-minimums/Solution-2.java) | 🟡 Medium | `DSA` / `Arrays` |
+| 0046 | [Sum of Subarray Ranges](./DSA/Arrays/sum-of-subarray-ranges) | [JAVA](./DSA/Arrays/sum-of-subarray-ranges/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
+| 0047 | [Top View of BT](./DSA/Trees/top-view-of-bt) | [JAVA](./DSA/Trees/top-view-of-bt/solution.java) | 🟡 Medium | `DSA` / `Trees` |
+| 0048 | [Trapping Rainwater](./DSA/Stack-Queue/trapping-rainwater) | [SOLUTION-2](./DSA/Stack-Queue/trapping-rainwater/Solution-2.java) | 🔴 Hard | `DSA` / `Stack-Queue` |
+| 0049 | [Vertical Order Traversal](./DSA/Trees/vertical-order-traversal) | [JAVA](./DSA/Trees/vertical-order-traversal/solution.java) | 🟡 Medium | `DSA` / `Trees` |
+| 0050 | [Zig Zag or Spiral Traversal](./DSA/Trees/zig-zag-or-spiral-traversal) | [JAVA](./DSA/Trees/zig-zag-or-spiral-traversal/solution.java) | 🟡 Medium | `DSA` / `Trees` |
 
 ---
 
