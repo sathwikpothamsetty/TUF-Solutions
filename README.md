@@ -22,7 +22,7 @@
 | 0006 | [Check for symmetrical BTs](./DSA/Trees/check-for-symmetrical-bts) | [JAVA](./DSA/Trees/check-for-symmetrical-bts/solution.java) | 🟡 Medium | `DSA` / `Trees` |
 | 0007 | [Check if there exists a subsequence with sum K](./DSA/Recursion/check-if-there-exists-a-subsequence-with-sum-k) | [Solution-2](./DSA/Recursion/check-if-there-exists-a-subsequence-with-sum-k/Solution-2.java) | 🟢 Easy | `DSA` / `Recursion` |
 | 0008 | [Check if two trees are identical or not](./DSA/Trees/check-if-two-trees-are-identical-or-not) | [JAVA](./DSA/Trees/check-if-two-trees-are-identical-or-not/solution.java) | 🟡 Medium | `DSA` / `Trees` |
-| 0009 | [Combination Sum](./DSA/Recursion/combination-sum) | [JAVA](./DSA/Recursion/combination-sum/solution.java) | 🟡 Medium | `DSA` / `Recursion` |
+| 0009 | [Combination Sum](./DSA/Recursion/combination-sum) | [JAVA](./DSA/Recursion/combination-sum/solution.java) [Tab1](./DSA/Recursion/combination-sum/Tab1.java) | 🟡 Medium | `DSA` / `Recursion` |
 | 0010 | [Construct a BT from Postorder and Inorder](./DSA/Trees/construct-a-bt-from-postorder-and-inorder) | [JAVA](./DSA/Trees/construct-a-bt-from-postorder-and-inorder/solution.java) | 🔴 Hard | `DSA` / `Trees` |
 | 0011 | [Construct a BT from Preorder and Inorder](./DSA/Trees/construct-a-bt-from-preorder-and-inorder) | [JAVA](./DSA/Trees/construct-a-bt-from-preorder-and-inorder/solution.java) | 🔴 Hard | `DSA` / `Trees` |
 | 0012 | [Count all subsequences with sum K](./DSA/Recursion/count-all-subsequences-with-sum-k) | [JAVA](./DSA/Recursion/count-all-subsequences-with-sum-k/solution.java) | 🟢 Easy | `DSA` / `Recursion` |
