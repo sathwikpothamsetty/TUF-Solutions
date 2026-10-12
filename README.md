@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **68** | 18 | 36 | 14 | `2026-10-07` |
+| **69** | 18 | 37 | 14 | `2026-10-12` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (67)
+### DSA (68)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -47,45 +47,46 @@ POTD](./DSA/General/design-hit-counter) | [JAVA](./DSA/General/design-hit-counte
 | 0027 | [Implement stack using Linkedlist](./DSA/Linked-List/implement-stack-using-linkedlist) | [JAVA](./DSA/Linked-List/implement-stack-using-linkedlist/solution.java) | 🟢 Easy | `Linked-List` | `2026-09-20` |
 | 0028 | [Implement Stack using Queue](./DSA/Recursion/implement-stack-using-queue) | [Solution-1](./DSA/Recursion/implement-stack-using-queue/Solution-1.java) | 🟢 Easy | `Recursion` | `2026-09-20` |
 | 0029 | [Inorder Traversal](./DSA/Trees/inorder-traversal) | [Solution-2](./DSA/Trees/inorder-traversal/Solution-2.java) | 🟢 Easy | `Trees` | `2026-09-20` |
-| 0030 | [Largest rectangle in a histogram](./DSA/Stack-Queue/largest-rectangle-in-a-histogram) | [JAVA](./DSA/Stack-Queue/largest-rectangle-in-a-histogram/solution.java) | 🔴 Hard | `Stack-Queue` | `2026-09-20` |
-| 0031 | [LCA in BT](./DSA/Trees/lca-in-bt) | [Solution-1](./DSA/Trees/lca-in-bt/Solution-1.java) | 🔴 Hard | `Trees` | `2026-09-20` |
-| 0032 | [Left Rotate Array by One](./DSA/Sorting/left-rotate-array-by-one) | [Tab1](./DSA/Sorting/left-rotate-array-by-one/Tab1.java) | 🟢 Easy | `Sorting` | `2026-09-29` |
-| 0033 | [Level Order Traversal](./DSA/Trees/level-order-traversal) | [Solution-1](./DSA/Trees/level-order-traversal/Solution-1.java) | 🟢 Easy | `Trees` | `2026-09-20` |
-| 0034 | [Longest Palindromic Substring](./DSA/Strings-Basic-and-Medium/longest-palindromic-substring) | [JAVA](./DSA/Strings-Basic-and-Medium/longest-palindromic-substring/solution.java) | 🟡 Medium | `Strings-Basic-and-Medium` | `2026-09-27` |
-| 0035 | [Maximum Depth in BT](./DSA/Trees/maximum-depth-in-bt) | [JAVA](./DSA/Trees/maximum-depth-in-bt/solution.java) | 🟡 Medium | `Trees` | `2026-09-20` |
-| 0036 | [Maximum Nesting Depth of the Parentheses](./DSA/Strings-Basic-and-Medium/maximum-nesting-depth-of-the-parentheses) | [JAVA](./DSA/Strings-Basic-and-Medium/maximum-nesting-depth-of-the-parentheses/solution.java) | 🟡 Medium | `Strings-Basic-and-Medium` | `2026-09-27` |
-| 0037 | [Maximum path sum](./DSA/Trees/maximum-path-sum) | [JAVA](./DSA/Trees/maximum-path-sum/solution.java) | 🟡 Medium | `Trees` | `2026-09-20` |
-| 0038 | [Minimum time taken to burn the BT from a given Node](./DSA/Trees/minimum-time-taken-to-burn-the-bt-from-a-given-node) | [JAVA](./DSA/Trees/minimum-time-taken-to-burn-the-bt-from-a-given-node/solution.java) | 🔴 Hard | `Trees` | `2026-09-20` |
-| 0039 | [Morris Inorder Traversal](./DSA/Trees/morris-inorder-traversal) | [JAVA](./DSA/Trees/morris-inorder-traversal/solution.java) | 🔴 Hard | `Trees` | `2026-09-20` |
-| 0040 | [Morris Preorder Traversal](./DSA/Trees/morris-preorder-traversal) | [JAVA](./DSA/Trees/morris-preorder-traversal/solution.java) | 🔴 Hard | `Trees` | `2026-09-20` |
-| 0041 | [Next Greater Element](./DSA/General/next-greater-element) | [Solution-2](./DSA/General/next-greater-element/Solution-2.java) [JAVA](./DSA/General/next-greater-element/solution.java) | 🟡 Medium | `General` | `2026-09-20` |
-| 0042 | [Next Greater Element - 2](./DSA/General/next-greater-element-2) | [JAVA](./DSA/General/next-greater-element-2/solution.java) | 🟡 Medium | `General` | `2026-09-20` |
-| 0043 | [594. Output Contest MatchesPOTD](./DSA/General/output-contest-matches) | [JAVA](./DSA/General/output-contest-matches/solution.java) | 🟡 Medium | `General` | `2026-09-28` |
-| 0044 | [Postorder Traversal](./DSA/Trees/postorder-traversal) | [Solution-2](./DSA/Trees/postorder-traversal/Solution-2.java) [JAVA](./DSA/Trees/postorder-traversal/solution.java) | 🟢 Easy | `Trees` | `2026-09-20` |
-| 0045 | [Power Set](./DSA/Recursion/power-set) | [Solution-2](./DSA/Recursion/power-set/Solution-2.java) | 🟡 Medium | `Recursion` | `2026-09-20` |
-| 0046 | [Pow(x,n)](./DSA/Recursion/powxn) | [Solution-2](./DSA/Recursion/powxn/Solution-2.java) | 🟡 Medium | `Recursion` | `2026-09-20` |
-| 0047 | [Pre, Post, Inorder in one traversal](./DSA/Trees/pre-post-inorder-in-one-traversal) | [JAVA](./DSA/Trees/pre-post-inorder-in-one-traversal/solution.java) | 🟢 Easy | `Trees` | `2026-09-20` |
-| 0048 | [Preorder Traversal](./DSA/Trees/preorder-traversal) | [Solution-2](./DSA/Trees/preorder-traversal/Solution-2.java) | 🟢 Easy | `Trees` | `2026-09-20` |
-| 0049 | [Print all nodes at a distance of K in BT](./DSA/Trees/print-all-nodes-at-a-distance-of-k-in-bt) | [JAVA](./DSA/Trees/print-all-nodes-at-a-distance-of-k-in-bt/solution.java) | 🔴 Hard | `Trees` | `2026-09-20` |
-| 0050 | [Print root to leaf path in BT](./DSA/Trees/print-root-to-leaf-path-in-bt) | [JAVA](./DSA/Trees/print-root-to-leaf-path-in-bt/solution.java) | 🟡 Medium | `Trees` | `2026-09-20` |
-| 0051 | [466. Remove Duplicates From an Unsorted Linked List
+| 0030 | [Intersection of two sorted arrays](./DSA/Arrays/intersection-of-two-sorted-arrays) | [Solution-2](./DSA/Arrays/intersection-of-two-sorted-arrays/Solution-2.java) | 🟡 Medium | `Arrays` | `2026-10-12` |
+| 0031 | [Largest rectangle in a histogram](./DSA/Stack-Queue/largest-rectangle-in-a-histogram) | [JAVA](./DSA/Stack-Queue/largest-rectangle-in-a-histogram/solution.java) | 🔴 Hard | `Stack-Queue` | `2026-09-20` |
+| 0032 | [LCA in BT](./DSA/Trees/lca-in-bt) | [Solution-1](./DSA/Trees/lca-in-bt/Solution-1.java) | 🔴 Hard | `Trees` | `2026-09-20` |
+| 0033 | [Left Rotate Array by One](./DSA/Sorting/left-rotate-array-by-one) | [Tab1](./DSA/Sorting/left-rotate-array-by-one/Tab1.java) | 🟢 Easy | `Sorting` | `2026-09-29` |
+| 0034 | [Level Order Traversal](./DSA/Trees/level-order-traversal) | [Solution-1](./DSA/Trees/level-order-traversal/Solution-1.java) | 🟢 Easy | `Trees` | `2026-09-20` |
+| 0035 | [Longest Palindromic Substring](./DSA/Strings-Basic-and-Medium/longest-palindromic-substring) | [JAVA](./DSA/Strings-Basic-and-Medium/longest-palindromic-substring/solution.java) | 🟡 Medium | `Strings-Basic-and-Medium` | `2026-09-27` |
+| 0036 | [Maximum Depth in BT](./DSA/Trees/maximum-depth-in-bt) | [JAVA](./DSA/Trees/maximum-depth-in-bt/solution.java) | 🟡 Medium | `Trees` | `2026-09-20` |
+| 0037 | [Maximum Nesting Depth of the Parentheses](./DSA/Strings-Basic-and-Medium/maximum-nesting-depth-of-the-parentheses) | [JAVA](./DSA/Strings-Basic-and-Medium/maximum-nesting-depth-of-the-parentheses/solution.java) | 🟡 Medium | `Strings-Basic-and-Medium` | `2026-09-27` |
+| 0038 | [Maximum path sum](./DSA/Trees/maximum-path-sum) | [JAVA](./DSA/Trees/maximum-path-sum/solution.java) | 🟡 Medium | `Trees` | `2026-09-20` |
+| 0039 | [Minimum time taken to burn the BT from a given Node](./DSA/Trees/minimum-time-taken-to-burn-the-bt-from-a-given-node) | [JAVA](./DSA/Trees/minimum-time-taken-to-burn-the-bt-from-a-given-node/solution.java) | 🔴 Hard | `Trees` | `2026-09-20` |
+| 0040 | [Morris Inorder Traversal](./DSA/Trees/morris-inorder-traversal) | [JAVA](./DSA/Trees/morris-inorder-traversal/solution.java) | 🔴 Hard | `Trees` | `2026-09-20` |
+| 0041 | [Morris Preorder Traversal](./DSA/Trees/morris-preorder-traversal) | [JAVA](./DSA/Trees/morris-preorder-traversal/solution.java) | 🔴 Hard | `Trees` | `2026-09-20` |
+| 0042 | [Next Greater Element](./DSA/General/next-greater-element) | [Solution-2](./DSA/General/next-greater-element/Solution-2.java) [JAVA](./DSA/General/next-greater-element/solution.java) | 🟡 Medium | `General` | `2026-09-20` |
+| 0043 | [Next Greater Element - 2](./DSA/General/next-greater-element-2) | [JAVA](./DSA/General/next-greater-element-2/solution.java) | 🟡 Medium | `General` | `2026-09-20` |
+| 0044 | [594. Output Contest MatchesPOTD](./DSA/General/output-contest-matches) | [JAVA](./DSA/General/output-contest-matches/solution.java) | 🟡 Medium | `General` | `2026-09-28` |
+| 0045 | [Postorder Traversal](./DSA/Trees/postorder-traversal) | [Solution-2](./DSA/Trees/postorder-traversal/Solution-2.java) [JAVA](./DSA/Trees/postorder-traversal/solution.java) | 🟢 Easy | `Trees` | `2026-09-20` |
+| 0046 | [Power Set](./DSA/Recursion/power-set) | [Solution-2](./DSA/Recursion/power-set/Solution-2.java) | 🟡 Medium | `Recursion` | `2026-09-20` |
+| 0047 | [Pow(x,n)](./DSA/Recursion/powxn) | [Solution-2](./DSA/Recursion/powxn/Solution-2.java) | 🟡 Medium | `Recursion` | `2026-09-20` |
+| 0048 | [Pre, Post, Inorder in one traversal](./DSA/Trees/pre-post-inorder-in-one-traversal) | [JAVA](./DSA/Trees/pre-post-inorder-in-one-traversal/solution.java) | 🟢 Easy | `Trees` | `2026-09-20` |
+| 0049 | [Preorder Traversal](./DSA/Trees/preorder-traversal) | [Solution-2](./DSA/Trees/preorder-traversal/Solution-2.java) | 🟢 Easy | `Trees` | `2026-09-20` |
+| 0050 | [Print all nodes at a distance of K in BT](./DSA/Trees/print-all-nodes-at-a-distance-of-k-in-bt) | [JAVA](./DSA/Trees/print-all-nodes-at-a-distance-of-k-in-bt/solution.java) | 🔴 Hard | `Trees` | `2026-09-20` |
+| 0051 | [Print root to leaf path in BT](./DSA/Trees/print-root-to-leaf-path-in-bt) | [JAVA](./DSA/Trees/print-root-to-leaf-path-in-bt/solution.java) | 🟡 Medium | `Trees` | `2026-09-20` |
+| 0052 | [466. Remove Duplicates From an Unsorted Linked List
 POTD](./DSA/Linked-List/remove-duplicates-from-an-unsorted-linked-list) | [JAVA](./DSA/Linked-List/remove-duplicates-from-an-unsorted-linked-list/solution.java) | 🟡 Medium | `Linked-List` | `2026-09-27` |
-| 0052 | [Remove K Digits](./DSA/General/remove-k-digits) | [JAVA](./DSA/General/remove-k-digits/solution.java) | 🟡 Medium | `General` | `2026-09-20` |
-| 0053 | [Remove Outermost Parentheses](./DSA/Strings-Basic-and-Medium/remove-outermost-parentheses) | [JAVA](./DSA/Strings-Basic-and-Medium/remove-outermost-parentheses/solution.java) | 🟡 Medium | `Strings-Basic-and-Medium` | `2026-09-27` |
-| 0054 | [Requirements needed to construct a unique BT](./DSA/Trees/requirements-needed-to-construct-a-unique-bt) | [JAVA](./DSA/Trees/requirements-needed-to-construct-a-unique-bt/solution.java) | 🟡 Medium | `Trees` | `2026-09-20` |
-| 0055 | [Right/Left View of BT](./DSA/Trees/rightleft-view-of-bt) | [Solution-2](./DSA/Trees/rightleft-view-of-bt/Solution-2.java) [JAVA](./DSA/Trees/rightleft-view-of-bt/solution.java) | 🟡 Medium | `Trees` | `2026-09-20` |
-| 0056 | [Roman to Integer](./DSA/Strings-Basic-and-Medium/roman-to-integer) | [JAVA](./DSA/Strings-Basic-and-Medium/roman-to-integer/solution.java) | 🟢 Easy | `Strings-Basic-and-Medium` | `2026-09-27` |
-| 0057 | [Serialize and De-serialize BT](./DSA/Trees/serialize-and-de-serialize-bt) | [JAVA](./DSA/Trees/serialize-and-de-serialize-bt/solution.java) | 🔴 Hard | `Trees` | `2026-09-20` |
-| 0058 | [Set Matrix Zeroes](./DSA/Arrays/set-matrix-zeroes) | [JAVA](./DSA/Arrays/set-matrix-zeroes/solution.java) | 🟡 Medium | `Arrays` | `2026-09-27` |
-| 0059 | [Sliding Window Maximum](./DSA/Stack-Queue/sliding-window-maximum) | [Solution-2](./DSA/Stack-Queue/sliding-window-maximum/Solution-2.java) | 🔴 Hard | `Stack-Queue` | `2026-09-20` |
-| 0060 | [String to Integer (atoi)](./DSA/Strings-Basic-and-Medium/string-to-integer-atoi) | [JAVA](./DSA/Strings-Basic-and-Medium/string-to-integer-atoi/solution.java) | 🟡 Medium | `Strings-Basic-and-Medium` | `2026-09-27` |
-| 0061 | [Subsets I](./DSA/Recursion/subsets-i) | [JAVA](./DSA/Recursion/subsets-i/solution.java) | 🟡 Medium | `Recursion` | `2026-09-20` |
-| 0062 | [Sum of Subarray Minimums](./DSA/Arrays/sum-of-subarray-minimums) | [Solution-2](./DSA/Arrays/sum-of-subarray-minimums/Solution-2.java) | 🟡 Medium | `Arrays` | `2026-09-20` |
-| 0063 | [Sum of Subarray Ranges](./DSA/Arrays/sum-of-subarray-ranges) | [JAVA](./DSA/Arrays/sum-of-subarray-ranges/solution.java) | 🟡 Medium | `Arrays` | `2026-09-20` |
-| 0064 | [Top View of BT](./DSA/Trees/top-view-of-bt) | [JAVA](./DSA/Trees/top-view-of-bt/solution.java) | 🟡 Medium | `Trees` | `2026-09-20` |
-| 0065 | [Trapping Rainwater](./DSA/Stack-Queue/trapping-rainwater) | [Solution-2](./DSA/Stack-Queue/trapping-rainwater/Solution-2.java) | 🔴 Hard | `Stack-Queue` | `2026-09-20` |
-| 0066 | [Vertical Order Traversal](./DSA/Trees/vertical-order-traversal) | [JAVA](./DSA/Trees/vertical-order-traversal/solution.java) | 🟡 Medium | `Trees` | `2026-09-20` |
-| 0067 | [Zig Zag or Spiral Traversal](./DSA/Trees/zig-zag-or-spiral-traversal) | [JAVA](./DSA/Trees/zig-zag-or-spiral-traversal/solution.java) | 🟡 Medium | `Trees` | `2026-09-20` |
+| 0053 | [Remove K Digits](./DSA/General/remove-k-digits) | [JAVA](./DSA/General/remove-k-digits/solution.java) | 🟡 Medium | `General` | `2026-09-20` |
+| 0054 | [Remove Outermost Parentheses](./DSA/Strings-Basic-and-Medium/remove-outermost-parentheses) | [JAVA](./DSA/Strings-Basic-and-Medium/remove-outermost-parentheses/solution.java) | 🟡 Medium | `Strings-Basic-and-Medium` | `2026-09-27` |
+| 0055 | [Requirements needed to construct a unique BT](./DSA/Trees/requirements-needed-to-construct-a-unique-bt) | [JAVA](./DSA/Trees/requirements-needed-to-construct-a-unique-bt/solution.java) | 🟡 Medium | `Trees` | `2026-09-20` |
+| 0056 | [Right/Left View of BT](./DSA/Trees/rightleft-view-of-bt) | [Solution-2](./DSA/Trees/rightleft-view-of-bt/Solution-2.java) [JAVA](./DSA/Trees/rightleft-view-of-bt/solution.java) | 🟡 Medium | `Trees` | `2026-09-20` |
+| 0057 | [Roman to Integer](./DSA/Strings-Basic-and-Medium/roman-to-integer) | [JAVA](./DSA/Strings-Basic-and-Medium/roman-to-integer/solution.java) | 🟢 Easy | `Strings-Basic-and-Medium` | `2026-09-27` |
+| 0058 | [Serialize and De-serialize BT](./DSA/Trees/serialize-and-de-serialize-bt) | [JAVA](./DSA/Trees/serialize-and-de-serialize-bt/solution.java) | 🔴 Hard | `Trees` | `2026-09-20` |
+| 0059 | [Set Matrix Zeroes](./DSA/Arrays/set-matrix-zeroes) | [JAVA](./DSA/Arrays/set-matrix-zeroes/solution.java) | 🟡 Medium | `Arrays` | `2026-09-27` |
+| 0060 | [Sliding Window Maximum](./DSA/Stack-Queue/sliding-window-maximum) | [Solution-2](./DSA/Stack-Queue/sliding-window-maximum/Solution-2.java) | 🔴 Hard | `Stack-Queue` | `2026-09-20` |
+| 0061 | [String to Integer (atoi)](./DSA/Strings-Basic-and-Medium/string-to-integer-atoi) | [JAVA](./DSA/Strings-Basic-and-Medium/string-to-integer-atoi/solution.java) | 🟡 Medium | `Strings-Basic-and-Medium` | `2026-09-27` |
+| 0062 | [Subsets I](./DSA/Recursion/subsets-i) | [JAVA](./DSA/Recursion/subsets-i/solution.java) | 🟡 Medium | `Recursion` | `2026-09-20` |
+| 0063 | [Sum of Subarray Minimums](./DSA/Arrays/sum-of-subarray-minimums) | [Solution-2](./DSA/Arrays/sum-of-subarray-minimums/Solution-2.java) | 🟡 Medium | `Arrays` | `2026-09-20` |
+| 0064 | [Sum of Subarray Ranges](./DSA/Arrays/sum-of-subarray-ranges) | [JAVA](./DSA/Arrays/sum-of-subarray-ranges/solution.java) | 🟡 Medium | `Arrays` | `2026-09-20` |
+| 0065 | [Top View of BT](./DSA/Trees/top-view-of-bt) | [JAVA](./DSA/Trees/top-view-of-bt/solution.java) | 🟡 Medium | `Trees` | `2026-09-20` |
+| 0066 | [Trapping Rainwater](./DSA/Stack-Queue/trapping-rainwater) | [Solution-2](./DSA/Stack-Queue/trapping-rainwater/Solution-2.java) | 🔴 Hard | `Stack-Queue` | `2026-09-20` |
+| 0067 | [Vertical Order Traversal](./DSA/Trees/vertical-order-traversal) | [JAVA](./DSA/Trees/vertical-order-traversal/solution.java) | 🟡 Medium | `Trees` | `2026-09-20` |
+| 0068 | [Zig Zag or Spiral Traversal](./DSA/Trees/zig-zag-or-spiral-traversal) | [JAVA](./DSA/Trees/zig-zag-or-spiral-traversal/solution.java) | 🟡 Medium | `Trees` | `2026-09-20` |
 
 ### Design (1)
 
