@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **71** | 18 | 39 | 14 | `2026-10-12` |
+| **72** | 18 | 40 | 14 | `2026-10-12` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (70)
+### DSA (71)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -80,15 +80,16 @@ POTD](./DSA/Linked-List/remove-duplicates-from-an-unsorted-linked-list) | [JAVA]
 | 0059 | [Roman to Integer](./DSA/Strings-Basic-and-Medium/roman-to-integer) | [JAVA](./DSA/Strings-Basic-and-Medium/roman-to-integer/solution.java) | 🟢 Easy | `Strings-Basic-and-Medium` | `2026-09-27` |
 | 0060 | [Serialize and De-serialize BT](./DSA/Trees/serialize-and-de-serialize-bt) | [JAVA](./DSA/Trees/serialize-and-de-serialize-bt/solution.java) | 🔴 Hard | `Trees` | `2026-09-20` |
 | 0061 | [Set Matrix Zeroes](./DSA/Arrays/set-matrix-zeroes) | [JAVA](./DSA/Arrays/set-matrix-zeroes/solution.java) | 🟡 Medium | `Arrays` | `2026-09-27` |
-| 0062 | [Sliding Window Maximum](./DSA/Stack-Queue/sliding-window-maximum) | [Solution-2](./DSA/Stack-Queue/sliding-window-maximum/Solution-2.java) | 🔴 Hard | `Stack-Queue` | `2026-09-20` |
-| 0063 | [String to Integer (atoi)](./DSA/Strings-Basic-and-Medium/string-to-integer-atoi) | [JAVA](./DSA/Strings-Basic-and-Medium/string-to-integer-atoi/solution.java) | 🟡 Medium | `Strings-Basic-and-Medium` | `2026-09-27` |
-| 0064 | [Subsets I](./DSA/Recursion/subsets-i) | [JAVA](./DSA/Recursion/subsets-i/solution.java) | 🟡 Medium | `Recursion` | `2026-09-20` |
-| 0065 | [Sum of Subarray Minimums](./DSA/Arrays/sum-of-subarray-minimums) | [Solution-2](./DSA/Arrays/sum-of-subarray-minimums/Solution-2.java) | 🟡 Medium | `Arrays` | `2026-09-20` |
-| 0066 | [Sum of Subarray Ranges](./DSA/Arrays/sum-of-subarray-ranges) | [JAVA](./DSA/Arrays/sum-of-subarray-ranges/solution.java) | 🟡 Medium | `Arrays` | `2026-09-20` |
-| 0067 | [Top View of BT](./DSA/Trees/top-view-of-bt) | [JAVA](./DSA/Trees/top-view-of-bt/solution.java) | 🟡 Medium | `Trees` | `2026-09-20` |
-| 0068 | [Trapping Rainwater](./DSA/Stack-Queue/trapping-rainwater) | [Solution-2](./DSA/Stack-Queue/trapping-rainwater/Solution-2.java) | 🔴 Hard | `Stack-Queue` | `2026-09-20` |
-| 0069 | [Vertical Order Traversal](./DSA/Trees/vertical-order-traversal) | [JAVA](./DSA/Trees/vertical-order-traversal/solution.java) | 🟡 Medium | `Trees` | `2026-09-20` |
-| 0070 | [Zig Zag or Spiral Traversal](./DSA/Trees/zig-zag-or-spiral-traversal) | [JAVA](./DSA/Trees/zig-zag-or-spiral-traversal/solution.java) | 🟡 Medium | `Trees` | `2026-09-20` |
+| 0062 | [Single element in sorted array](./DSA/Arrays/single-element-in-sorted-array) | [Solution-2](./DSA/Arrays/single-element-in-sorted-array/Solution-2.java) | 🟡 Medium | `Arrays` | `2026-10-12` |
+| 0063 | [Sliding Window Maximum](./DSA/Stack-Queue/sliding-window-maximum) | [Solution-2](./DSA/Stack-Queue/sliding-window-maximum/Solution-2.java) | 🔴 Hard | `Stack-Queue` | `2026-09-20` |
+| 0064 | [String to Integer (atoi)](./DSA/Strings-Basic-and-Medium/string-to-integer-atoi) | [JAVA](./DSA/Strings-Basic-and-Medium/string-to-integer-atoi/solution.java) | 🟡 Medium | `Strings-Basic-and-Medium` | `2026-09-27` |
+| 0065 | [Subsets I](./DSA/Recursion/subsets-i) | [JAVA](./DSA/Recursion/subsets-i/solution.java) | 🟡 Medium | `Recursion` | `2026-09-20` |
+| 0066 | [Sum of Subarray Minimums](./DSA/Arrays/sum-of-subarray-minimums) | [Solution-2](./DSA/Arrays/sum-of-subarray-minimums/Solution-2.java) | 🟡 Medium | `Arrays` | `2026-09-20` |
+| 0067 | [Sum of Subarray Ranges](./DSA/Arrays/sum-of-subarray-ranges) | [JAVA](./DSA/Arrays/sum-of-subarray-ranges/solution.java) | 🟡 Medium | `Arrays` | `2026-09-20` |
+| 0068 | [Top View of BT](./DSA/Trees/top-view-of-bt) | [JAVA](./DSA/Trees/top-view-of-bt/solution.java) | 🟡 Medium | `Trees` | `2026-09-20` |
+| 0069 | [Trapping Rainwater](./DSA/Stack-Queue/trapping-rainwater) | [Solution-2](./DSA/Stack-Queue/trapping-rainwater/Solution-2.java) | 🔴 Hard | `Stack-Queue` | `2026-09-20` |
+| 0070 | [Vertical Order Traversal](./DSA/Trees/vertical-order-traversal) | [JAVA](./DSA/Trees/vertical-order-traversal/solution.java) | 🟡 Medium | `Trees` | `2026-09-20` |
+| 0071 | [Zig Zag or Spiral Traversal](./DSA/Trees/zig-zag-or-spiral-traversal) | [JAVA](./DSA/Trees/zig-zag-or-spiral-traversal/solution.java) | 🟡 Medium | `Trees` | `2026-09-20` |
 
 ### Design (1)
 
