@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **75** | 18 | 43 | 14 | `2026-10-18` |
+| **76** | 18 | 44 | 14 | `2026-10-18` |
 
 ---
 
@@ -92,13 +92,14 @@ POTD](./DSA/Linked-List/remove-duplicates-from-an-unsorted-linked-list) | [JAVA]
 | 0071 | [Vertical Order Traversal](./DSA/Trees/vertical-order-traversal) | [JAVA](./DSA/Trees/vertical-order-traversal/solution.java) | 🟡 Medium | `Trees` | `2026-09-20` |
 | 0072 | [Zig Zag or Spiral Traversal](./DSA/Trees/zig-zag-or-spiral-traversal) | [JAVA](./DSA/Trees/zig-zag-or-spiral-traversal/solution.java) | 🟡 Medium | `Trees` | `2026-09-20` |
 
-### Design (3)
+### Design (4)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [Practice (Attributes and Methods)](./Design/Introduction-To-Oops/practice-attributes-and-methods) | [Solution-1](./Design/Introduction-To-Oops/practice-attributes-and-methods/Solution-1.java) | 🟡 Medium | `Introduction-To-Oops` | `2026-10-18` |
 | 0002 | [Practice (Classes and Objects)](./Design/Introduction-To-Oops/practice-classes-and-objects) | [JAVA](./Design/Introduction-To-Oops/practice-classes-and-objects/solution.java) | 🟡 Medium | `Introduction-To-Oops` | `2026-10-07` |
 | 0003 | [Practice (Constructors)](./Design/Introduction-To-Oops/practice-constructors) | [JAVA](./Design/Introduction-To-Oops/practice-constructors/solution.java) | 🟡 Medium | `Introduction-To-Oops` | `2026-10-18` |
+| 0004 | [Practice (Encapsulation)](./Design/Core-Principles-Of-Oops/practice-encapsulation) | [JAVA](./Design/Core-Principles-Of-Oops/practice-encapsulation/solution.java) | ⚪ Unspecified | `Core-Principles-Of-Oops` | `2026-10-18` |
 
 ---
 
