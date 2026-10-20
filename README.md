@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **80** | 18 | 48 | 14 | `2026-10-19` |
+| **80** | 18 | 48 | 14 | `2026-10-20` |
 
 ---
 
@@ -58,7 +58,8 @@ POTD](./DSA/General/divide-two-numbers-without-multiplication-and-division) | [S
 | 0037 | [Level Order Traversal](./DSA/Trees/level-order-traversal) | [Solution-1](./DSA/Trees/level-order-traversal/Solution-1.java) | 🟢 Easy | `Trees` | `2026-09-20` |
 | 0038 | [Longest Palindromic Substring](./DSA/Strings-Basic-and-Medium/longest-palindromic-substring) | [JAVA](./DSA/Strings-Basic-and-Medium/longest-palindromic-substring/solution.java) | 🟡 Medium | `Strings-Basic-and-Medium` | `2026-09-27` |
 | 0039 | [Majority Element-I](./DSA/Arrays/majority-element-i) | [Solution-2](./DSA/Arrays/majority-element-i/Solution-2.java) | 🟡 Medium | `Arrays` | `2026-10-12` |
-| 0040 | [Maximum Depth in BT](./DSA/Trees/maximum-depth-in-bt) | [JAVA](./DSA/Trees/maximum-depth-in-bt/solution.java) | 🟡 Medium | `Trees` | `2026-09-20` |
+| 0040 | [18. Maximum Depth in BT
+POTD](./DSA/Trees/maximum-depth-in-bt) | [JAVA](./DSA/Trees/maximum-depth-in-bt/solution.java) | 🟡 Medium | `Trees` | `2026-10-20` |
 | 0041 | [Maximum Nesting Depth of the Parentheses](./DSA/Strings-Basic-and-Medium/maximum-nesting-depth-of-the-parentheses) | [JAVA](./DSA/Strings-Basic-and-Medium/maximum-nesting-depth-of-the-parentheses/solution.java) | 🟡 Medium | `Strings-Basic-and-Medium` | `2026-09-27` |
 | 0042 | [Maximum path sum](./DSA/Trees/maximum-path-sum) | [JAVA](./DSA/Trees/maximum-path-sum/solution.java) | 🟡 Medium | `Trees` | `2026-09-20` |
 | 0043 | [Minimum time taken to burn the BT from a given Node](./DSA/Trees/minimum-time-taken-to-burn-the-bt-from-a-given-node) | [JAVA](./DSA/Trees/minimum-time-taken-to-burn-the-bt-from-a-given-node/solution.java) | 🔴 Hard | `Trees` | `2026-09-20` |
