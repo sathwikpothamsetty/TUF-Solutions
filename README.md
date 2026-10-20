@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **80** | 18 | 48 | 14 | `2026-10-20` |
+| **81** | 18 | 49 | 14 | `2026-10-20` |
 
 ---
 
@@ -95,17 +95,18 @@ POTD](./DSA/Linked-List/remove-duplicates-from-an-unsorted-linked-list) | [JAVA]
 | 0072 | [Vertical Order Traversal](./DSA/Trees/vertical-order-traversal) | [JAVA](./DSA/Trees/vertical-order-traversal/solution.java) | 🟡 Medium | `Trees` | `2026-09-20` |
 | 0073 | [Zig Zag or Spiral Traversal](./DSA/Trees/zig-zag-or-spiral-traversal) | [JAVA](./DSA/Trees/zig-zag-or-spiral-traversal/solution.java) | 🟡 Medium | `Trees` | `2026-09-20` |
 
-### Design (7)
+### Design (8)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
-| 0001 | [Practice (Access Modifiers)](./Design/Core-Principles-Of-Oops/practice-access-modifiers) | [JAVA](./Design/Core-Principles-Of-Oops/practice-access-modifiers/solution.java) | ⚪ Unspecified | `Core-Principles-Of-Oops` | `2026-10-18` |
-| 0002 | [Practice (Attributes and Methods)](./Design/Introduction-To-Oops/practice-attributes-and-methods) | [Solution-1](./Design/Introduction-To-Oops/practice-attributes-and-methods/Solution-1.java) | 🟡 Medium | `Introduction-To-Oops` | `2026-10-18` |
-| 0003 | [Practice (Classes and Objects)](./Design/Introduction-To-Oops/practice-classes-and-objects) | [JAVA](./Design/Introduction-To-Oops/practice-classes-and-objects/solution.java) | 🟡 Medium | `Introduction-To-Oops` | `2026-10-07` |
-| 0004 | [Practice (Constructors)](./Design/Introduction-To-Oops/practice-constructors) | [JAVA](./Design/Introduction-To-Oops/practice-constructors/solution.java) | 🟡 Medium | `Introduction-To-Oops` | `2026-10-18` |
-| 0005 | [Practice (Encapsulation)](./Design/Core-Principles-Of-Oops/practice-encapsulation) | [JAVA](./Design/Core-Principles-Of-Oops/practice-encapsulation/solution.java) | ⚪ Unspecified | `Core-Principles-Of-Oops` | `2026-10-18` |
-| 0006 | [Practice (Inheritance)](./Design/Core-Principles-Of-Oops/practice-inheritance) | [JAVA](./Design/Core-Principles-Of-Oops/practice-inheritance/solution.java) | ⚪ Unspecified | `Core-Principles-Of-Oops` | `2026-10-18` |
-| 0007 | [Practice (Polymorphism)](./Design/Core-Principles-Of-Oops/practice-polymorphism) | [JAVA](./Design/Core-Principles-Of-Oops/practice-polymorphism/solution.java) | ⚪ Unspecified | `Core-Principles-Of-Oops` | `2026-10-18` |
+| 0001 | [Practice (Abstraction)](./Design/Advance-Oops-Features/practice-abstraction) | [JAVA](./Design/Advance-Oops-Features/practice-abstraction/solution.java) | ⚪ Unspecified | `Advance-Oops-Features` | `2026-10-20` |
+| 0002 | [Practice (Access Modifiers)](./Design/Core-Principles-Of-Oops/practice-access-modifiers) | [JAVA](./Design/Core-Principles-Of-Oops/practice-access-modifiers/solution.java) | ⚪ Unspecified | `Core-Principles-Of-Oops` | `2026-10-18` |
+| 0003 | [Practice (Attributes and Methods)](./Design/Introduction-To-Oops/practice-attributes-and-methods) | [Solution-1](./Design/Introduction-To-Oops/practice-attributes-and-methods/Solution-1.java) | 🟡 Medium | `Introduction-To-Oops` | `2026-10-18` |
+| 0004 | [Practice (Classes and Objects)](./Design/Introduction-To-Oops/practice-classes-and-objects) | [JAVA](./Design/Introduction-To-Oops/practice-classes-and-objects/solution.java) | 🟡 Medium | `Introduction-To-Oops` | `2026-10-07` |
+| 0005 | [Practice (Constructors)](./Design/Introduction-To-Oops/practice-constructors) | [JAVA](./Design/Introduction-To-Oops/practice-constructors/solution.java) | 🟡 Medium | `Introduction-To-Oops` | `2026-10-18` |
+| 0006 | [Practice (Encapsulation)](./Design/Core-Principles-Of-Oops/practice-encapsulation) | [JAVA](./Design/Core-Principles-Of-Oops/practice-encapsulation/solution.java) | ⚪ Unspecified | `Core-Principles-Of-Oops` | `2026-10-18` |
+| 0007 | [Practice (Inheritance)](./Design/Core-Principles-Of-Oops/practice-inheritance) | [JAVA](./Design/Core-Principles-Of-Oops/practice-inheritance/solution.java) | ⚪ Unspecified | `Core-Principles-Of-Oops` | `2026-10-18` |
+| 0008 | [Practice (Polymorphism)](./Design/Core-Principles-Of-Oops/practice-polymorphism) | [JAVA](./Design/Core-Principles-Of-Oops/practice-polymorphism/solution.java) | ⚪ Unspecified | `Core-Principles-Of-Oops` | `2026-10-18` |
 
 ---
 
